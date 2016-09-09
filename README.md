@@ -23,3 +23,8 @@ which can be seen [here][1] and is available as a repository [here][2]. It is re
  [5]: http://www.chrome-allow-file-access-from-file.com/
  [6]: http://www.x3dom.org/check/
  [7]: http://www.x3dom.org/contact/
+
+
+All the material in this repository is made available under a [Creative Commons Attribution licence][8]. 
+
+ [8]: https://creativecommons.org/licenses/by/4.0/
