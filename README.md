@@ -10,7 +10,7 @@ It is essentially identical to the supplementary information of the paper
 which can be seen [here][1] and is available as a repository [here][2]. It is reprinted here simply to keep things well labelled. This supplementary material can be accessed in either of three ways:
 
  [1]: https://SlalomInComplexTime.github.io
- [2]: https://github.com/SlalomInComplexTime/SlalomInComplexTime
+ [2]: https://github.com/SlalomInComplexTime/SlalomInComplexTime.github.io
 
  - You can view it on your browser online, at [https://ElectronDynamicsInComplexTimeAndSpace.github.io][3] (recommended).
  - You can download it from [this zip file][4] and open it locally. To do this, download the zip file, extract its contents to a single directory, and open the file `SupplementaryInformation.html` in your browser.
